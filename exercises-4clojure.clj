@@ -67,7 +67,7 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;; Problem 20 - Penultimate Element
+;;; Problem #20 - Penultimate Element
 
 ; What I pasted in the box:
 
@@ -75,7 +75,7 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;; Problem 21 - Nth Element
+;;; Problem #21 - Nth Element
 
 ; What I pasted in the box:
 
@@ -83,39 +83,31 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;; Problem 23 - Reverse a Sequence
+;;; Problem #23 - Reverse a Sequence
 
 ; What I pasted in the box:
 
-
+#(into () %)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;; Problem #18 - Sequences: filter
+;;; Problem #25 - Find the odd numbers
 
 ; What I pasted in the box:
 
-'(6 7)
+#(filter odd? %)
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;; Problem #18 - Sequences: filter
+;;; Problem #37 - Regular Expressions
 
 ; What I pasted in the box:
 
-'(6 7)
+"ABC"
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;; Problem #18 - Sequences: filter
-
-; What I pasted in the box:
-
-'(6 7)
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-;;; Problem #18 - Sequences: filter
+;;; Problem #40 - Interpose a Seq
 
 ; What I pasted in the box:
 
@@ -123,7 +115,7 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;; Problem #18 - Sequences: filter
+;;; Problem #43 - Reverse Interleave
 
 ; What I pasted in the box:
 
@@ -131,7 +123,7 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;; Problem #18 - Sequences: filter
+;;; Problem #44 - Rotate Sequence
 
 ; What I pasted in the box:
 
@@ -139,7 +131,15 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-;;; Problem #18 - Sequences: filter
+;;; Problem #46 - Flipping out
+
+; What I pasted in the box:
+
+'(6 7)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #47 - Contain yourself
 
 ; What I pasted in the box:
 
