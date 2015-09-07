@@ -33,3 +33,114 @@
 
 (= (#(* 2 %) 11) 22)
 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #10: Intro to maps
+
+; What I pasted in the box:
+
+20
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #16: Hello world
+
+; What I pasted in the box:
+
+#(str "Hello, " % "!")
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #17: Sequences: map
+
+; What I pasted in the box:
+
+'(6 7 8)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #18 - Sequences: filter
+
+; What I pasted in the box:
+
+'(6 7)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem 20 - Penultimate Element
+
+; What I pasted in the box:
+
+#(nth % (-(dec (count %))1))
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem 21 - Nth Element
+
+; What I pasted in the box:
+
+#(.get %1 %2)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem 23 - Reverse a Sequence
+
+; What I pasted in the box:
+
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #18 - Sequences: filter
+
+; What I pasted in the box:
+
+'(6 7)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #18 - Sequences: filter
+
+; What I pasted in the box:
+
+'(6 7)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #18 - Sequences: filter
+
+; What I pasted in the box:
+
+'(6 7)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #18 - Sequences: filter
+
+; What I pasted in the box:
+
+'(6 7)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #18 - Sequences: filter
+
+; What I pasted in the box:
+
+'(6 7)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #18 - Sequences: filter
+
+; What I pasted in the box:
+
+'(6 7)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Problem #18 - Sequences: filter
+
+; What I pasted in the box:
+
+'(6 7)
