@@ -127,15 +127,14 @@
 
 ; What I pasted in the box:
 
-'(6 7)
-
+(fn [rot arr] (let [n (mod rot (count arr))] (concat (drop n arr) (take n arr))))
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;;; Problem #46 - Flipping out
 
 ; What I pasted in the box:
 
-'(6 7)
+(fn [fx] (fn [& args] (apply fx(reverse args))))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
