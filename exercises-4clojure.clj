@@ -111,7 +111,7 @@
 
 ; What I pasted in the box:
 
-'(6 7)
+(fn [x list] (drop-last (interleave list (repeat x))))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -119,7 +119,7 @@
 
 ; What I pasted in the box:
 
-'(6 7)
+(fn [arr x] (apply map list (partition x arr)))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -143,4 +143,4 @@
 
 ; What I pasted in the box:
 
-'(6 7)
+4
